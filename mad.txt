@@ -2,7 +2,7 @@ I have a pet dog (noun) named Charles.
 
 He is very ___cute___ (adjective).
 
-I feed him organic, locally sourced _tomato_____ (noun).
+I feed him organic, locally sourced strawberries (noun).
 
 He is only about the size of my ___pig___ (noun).
 
